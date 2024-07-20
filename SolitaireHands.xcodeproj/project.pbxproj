@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 74;
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
@@ -197,7 +197,6 @@
 				};
 			};
 			buildConfigurationList = 4C3D7DFC2C4B0ED20023BCF8 /* Build configuration list for PBXProject "SolitaireHands" */;
-			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -205,6 +204,7 @@
 				Base,
 			);
 			mainGroup = 4C3D7DF82C4B0ED20023BCF8;
+			preferredProjectObjectVersion = 60;
 			productRefGroup = 4C3D7E022C4B0ED20023BCF8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
